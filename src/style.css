@@ -63,9 +63,9 @@ body {
 	margin: 0;
 }
 
-.info input[type="number"] {
+/* .info input[type="number"] {
 	-moz-appearance: textfield;
-}
+} */
 
 .countdown {
 	display: flex;
