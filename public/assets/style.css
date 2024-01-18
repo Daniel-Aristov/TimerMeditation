@@ -4,7 +4,7 @@
 }
 
 body {
-	font-family: 'Roboto' sans-serif;
+	font-family: 'Roboto', sans-serif;
 	background-color: #202024;
 	display: flex;
 	align-items: center;
@@ -46,13 +46,13 @@ body {
 }
 
 .info input {
-	width: 40px;
+	width: 55px;
 	background: none;
 	border: none;
 	text-align: center;
 	font-weight: 700;
 	color: var(--anti-accent);
-	font-size: 25x;
+	font-size: 25px;
 	padding: 5px 10px;
 	user-select: none;
 }
